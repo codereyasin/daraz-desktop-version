@@ -1,0 +1,1 @@
+# daraz-desktop-version
